@@ -558,5 +558,139 @@
     "transliteration": "At-Tawwab",
     "english_translation": "The Acceptor of Repentance",
     "description": "At-Tawwab refers to Allah’s readiness to accept the repentance of His servants. He forgives sins and welcomes back those who turn to Him sincerely, no matter how many times they seek His forgiveness."
+  },
+  {
+    "id": 81,
+    "name_arabic": "المنتقم",
+    "transliteration": "Al-Muntaqim",
+    "english_translation": "The Avenger",
+    "description": "Al-Muntaqim signifies that Allah is the one who punishes those who persist in wrongdoing and injustice. He exacts retribution against those who defy His commandments and oppress others."
+  },
+  {
+    "id": 82,
+    "name_arabic": "العفو",
+    "transliteration": "Al-Afuww",
+    "english_translation": "The Pardoner",
+    "description": "Al-Afuww means that Allah is the one who pardons and erases sins completely. His forgiveness is perfect, and He does not hold any grudges or record against those who repent sincerely."
+  },
+  {
+    "id": 83,
+    "name_arabic": "الرؤوف",
+    "transliteration": "Ar-Ra'uf",
+    "english_translation": "The Most Kind",
+    "description": "Ar-Ra'uf signifies that Allah is full of compassion and kindness. He is gentle with His creation, and His mercy and kindness surpass all limits, especially for those who are obedient and sincere."
+  },
+  {
+    "id": 84,
+    "name_arabic": "مالك الملك",
+    "transliteration": "Malik-ul-Mulk",
+    "english_translation": "Master of the Kingdom",
+    "description": "Malik-ul-Mulk means that Allah is the absolute ruler and owner of all dominions. He possesses ultimate authority and sovereignty over the heavens, the earth, and everything in between."
+  },
+  {
+    "id": 85,
+    "name_arabic": "ذوالجلال والإكرام",
+    "transliteration": "Dhul-Jalali wal-Ikram",
+    "english_translation": "Possessor of Glory and Honor",
+    "description": "Dhul-Jalali wal-Ikram reflects Allah’s majesty, glory, and generosity. He is the one deserving of all honor, reverence, and gratitude, and His greatness is beyond human comprehension."
+  },
+  {
+    "id": 86,
+    "name_arabic": "المقسط",
+    "transliteration": "Al-Muqsit",
+    "english_translation": "The Just",
+    "description": "Al-Muqsit refers to Allah’s absolute justice and fairness. He deals with all creation in fairness and equity, rewarding the righteous and punishing the wrongdoers according to their deeds."
+  },
+  {
+    "id": 87,
+    "name_arabic": "الجامع",
+    "transliteration": "Al-Jami'",
+    "english_translation": "The Gatherer",
+    "description": "Al-Jami' means that Allah is the one who gathers all things. He will bring all creatures together for the Day of Judgment, and He unites people, events, and circumstances according to His divine wisdom."
+  },
+  {
+    "id": 88,
+    "name_arabic": "الغني",
+    "transliteration": "Al-Ghaniyy",
+    "english_translation": "The Self-Sufficient",
+    "description": "Al-Ghaniyy signifies that Allah is free from need. He is completely self-sufficient, and all creation is dependent on Him. He does not require anything from His creation, while they are entirely in need of His mercy."
+  },
+  {
+    "id": 89,
+    "name_arabic": "المغني",
+    "transliteration": "Al-Mughni",
+    "english_translation": "The Enricher",
+    "description": "Al-Mughni means that Allah is the one who enriches and bestows wealth. He provides sustenance and prosperity to whomever He wills, and He enriches the hearts and souls of believers with contentment and faith."
+  },
+  {
+    "id": 90,
+    "name_arabic": "المانع",
+    "transliteration": "Al-Mani'",
+    "english_translation": "The Withholder",
+    "description": "Al-Mani' refers to Allah’s ability to withhold or prevent harm or blessings as He wills. He protects His creation from harm and prevents certain things from happening for reasons based on His divine wisdom."
+  },
+  {
+    "id": 91,
+    "name_arabic": "الضار",
+    "transliteration": "Ad-Darr",
+    "english_translation": "The Distresser",
+    "description": "Ad-Darr signifies that Allah is the one who brings about affliction or distress as a means of trial or punishment. Any hardship or harm that occurs is by His will, and it serves a purpose in His divine plan."
+  },
+  {
+    "id": 92,
+    "name_arabic": "النافع",
+    "transliteration": "An-Nafi'",
+    "english_translation": "The Benefiter",
+    "description": "An-Nafi' means that Allah is the source of all benefit and goodness. He grants benefits, blessings, and advantages to His creation, ensuring their well-being and success."
+  },
+  {
+    "id": 93,
+    "name_arabic": "النور",
+    "transliteration": "An-Nur",
+    "english_translation": "The Light",
+    "description": "An-Nur refers to Allah as the light of the heavens and the earth. His guidance is like a light that illuminates the path to righteousness, and His existence brings clarity, knowledge, and wisdom to all of creation."
+  },
+  {
+    "id": 94,
+    "name_arabic": "الهادي",
+    "transliteration": "Al-Hadi",
+    "english_translation": "The Guide",
+    "description": "Al-Hadi signifies that Allah is the one who guides His creation. He leads hearts and minds to the truth, providing direction in life and showing the path to righteousness for those who seek it."
+  },
+  {
+    "id": 95,
+    "name_arabic": "البديع",
+    "transliteration": "Al-Badi'",
+    "english_translation": "The Incomparable Originator",
+    "description": "Al-Badi' means that Allah is the originator of the heavens and the earth, and He creates in a manner that has no precedent. His creativity and power are unmatched, and His creations are beyond comparison."
+  },
+  {
+    "id": 96,
+    "name_arabic": "الباقي",
+    "transliteration": "Al-Baqi",
+    "english_translation": "The Ever-Surviving",
+    "description": "Al-Baqi means that Allah is eternal and everlasting. He remains after all else perishes, and nothing can bring an end to His existence. He has no beginning and no end, and His presence is permanent."
+  },
+  {
+    "id": 97,
+    "name_arabic": "الوارث",
+    "transliteration": "Al-Warith",
+    "english_translation": "The Inheritor",
+    "description": "Al-Warith refers to Allah as the ultimate heir to all things. After all creation perishes, He alone remains, and everything returns to Him. He is the one who will inherit the earth and everything on it."
+  },
+  {
+    "id": 98,
+    "name_arabic": "الرشيد",
+    "transliteration": "Ar-Rashid",
+    "english_translation": "The Guide to the Right Path",
+    "description": "Ar-Rashid means that Allah is the one who guides His creation toward the right path with wisdom and clarity. He provides sound judgment and understanding to those who follow His guidance."
+  },
+  {
+    "id": 99,
+    "name_arabic": "الصبور",
+    "transliteration": "As-Sabur",
+    "english_translation": "The Patient",
+    "description": "As-Sabur signifies that Allah is infinitely patient. He does not rush to punish His creation for their wrongdoings, giving them time to repent and seek His forgiveness, and He is never affected by the impatience of others."
   }
 ]
+
