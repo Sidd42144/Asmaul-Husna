@@ -418,5 +418,145 @@
     "transliteration": "Al-Muhyi",
     "english_translation": "The Giver of Life",
     "description": "Al-Muhyi means that Allah gives life to all beings. He is the one who creates life and revives the dead, and His power over life and death is absolute."
+  },
+  {
+    "id": 61,
+    "name_arabic": "المميت",
+    "transliteration": "Al-Mumit",
+    "english_translation": "The Bringer of Death",
+    "description": "Al-Mumit refers to Allah’s control over death. He is the one who takes away life, just as He is the giver of life. Death occurs only by His command and permission."
+  },
+  {
+    "id": 62,
+    "name_arabic": "الحي",
+    "transliteration": "Al-Hayy",
+    "english_translation": "The Ever-Living",
+    "description": "Al-Hayy means that Allah is eternally alive, with no beginning or end. His life is perfect and self-sustained, and all other life depends on Him. He never dies, sleeps, or grows weary."
+  },
+  {
+    "id": 63,
+    "name_arabic": "القيوم",
+    "transliteration": "Al-Qayyum",
+    "english_translation": "The Sustainer",
+    "description": "Al-Qayyum signifies that Allah is self-sustaining and upholds all of existence. He does not rely on anyone or anything, while everything in the universe depends on Him for existence and maintenance."
+  },
+  {
+    "id": 64,
+    "name_arabic": "الواجد",
+    "transliteration": "Al-Wajid",
+    "english_translation": "The Perceiver",
+    "description": "Al-Wajid means that Allah is aware and perceives all things in their reality. He lacks nothing and needs nothing, and He always finds what He wills in His perfect knowledge and power."
+  },
+  {
+    "id": 65,
+    "name_arabic": "الماجد",
+    "transliteration": "Al-Majid",
+    "english_translation": "The Illustrious",
+    "description": "Al-Majid refers to Allah’s greatness and glory. He is exalted and most honorable, filled with both majesty and abundance. His magnificence extends over all of creation."
+  },
+  {
+    "id": 66,
+    "name_arabic": "الواحد",
+    "transliteration": "Al-Wahid",
+    "english_translation": "The One",
+    "description": "Al-Wahid signifies Allah’s absolute oneness. He has no partners, no equals, and nothing is comparable to Him in essence, attributes, or actions."
+  },
+  {
+    "id": 67,
+    "name_arabic": "الاحد",
+    "transliteration": "Al-Ahad",
+    "english_translation": "The Unique",
+    "description": "Al-Ahad means Allah is unique and indivisible in His essence and attributes. He is singular and completely different from His creation, incomparable in all ways."
+  },
+  {
+    "id": 68,
+    "name_arabic": "الصمد",
+    "transliteration": "As-Samad",
+    "english_translation": "The Eternal Refuge",
+    "description": "As-Samad signifies that Allah is self-sufficient and eternal. All creation relies on Him for their needs, yet He needs nothing from anyone. He is the ultimate provider and refuge."
+  },
+  {
+    "id": 69,
+    "name_arabic": "القادر",
+    "transliteration": "Al-Qadir",
+    "english_translation": "The Omnipotent",
+    "description": "Al-Qadir refers to Allah’s absolute power and ability. He has full control over all things, and nothing is beyond His capability. He can do whatever He wills, however He wills."
+  },
+  {
+    "id": 70,
+    "name_arabic": "المقتدر",
+    "transliteration": "Al-Muqtadir",
+    "english_translation": "The Creator of All Power",
+    "description": "Al-Muqtadir means that Allah has the ultimate authority and command over all things. His strength is unmatched, and He has the power to control and create everything as He desires."
+  },
+  {
+    "id": 71,
+    "name_arabic": "المقدم",
+    "transliteration": "Al-Muqaddim",
+    "english_translation": "The Expediter",
+    "description": "Al-Muqaddim refers to Allah’s ability to put forward or advance things as He wills. He brings things closer to their purpose, based on His divine wisdom."
+  },
+  {
+    "id": 72,
+    "name_arabic": "المؤخر",
+    "transliteration": "Al-Mu'akhkhir",
+    "english_translation": "The Delayer",
+    "description": "Al-Mu'akhkhir means that Allah can delay things as He sees fit. He postpones events, outcomes, or rewards for a time of His choosing, based on what is best."
+  },
+  {
+    "id": 73,
+    "name_arabic": "الأول",
+    "transliteration": "Al-Awwal",
+    "english_translation": "The First",
+    "description": "Al-Awwal means that Allah is the first, with no beginning. He existed before all of creation, and nothing came before Him."
+  },
+  {
+    "id": 74,
+    "name_arabic": "الأخر",
+    "transliteration": "Al-Akhir",
+    "english_translation": "The Last",
+    "description": "Al-Akhir signifies that Allah is the last, with no end. He will exist after everything ceases to exist, and nothing will remain but Him."
+  },
+  {
+    "id": 75,
+    "name_arabic": "الظاهر",
+    "transliteration": "Az-Zahir",
+    "english_translation": "The Manifest",
+    "description": "Az-Zahir refers to Allah’s manifest nature, as His existence and attributes are evident throughout creation. Everything points to His presence and power, even though He is beyond comprehension."
+  },
+  {
+    "id": 76,
+    "name_arabic": "الباطن",
+    "transliteration": "Al-Batin",
+    "english_translation": "The Hidden",
+    "description": "Al-Batin signifies Allah’s hidden and incomprehensible nature. He is close and aware of all things, but His essence is beyond human perception and understanding."
+  },
+  {
+    "id": 77,
+    "name_arabic": "الوالي",
+    "transliteration": "Al-Wali",
+    "english_translation": "The Patron",
+    "description": "Al-Wali means Allah is the supporter and guardian of all affairs. He is intimately involved in managing and guiding the affairs of His creation, and He is the protector of His servants."
+  },
+  {
+    "id": 78,
+    "name_arabic": "المتعالي",
+    "transliteration": "Al-Muta'ali",
+    "english_translation": "The Self-Exalted",
+    "description": "Al-Muta'ali signifies that Allah is exalted above everything in creation. He is far above any imperfection, and no one shares His status, essence, or attributes."
+  },
+  {
+    "id": 79,
+    "name_arabic": "البر",
+    "transliteration": "Al-Barr",
+    "english_translation": "The Source of All Goodness",
+    "description": "Al-Barr means that Allah is the source of all kindness and goodness. He shows immense compassion, benevolence, and mercy to His creation, showering them with blessings."
+  },
+  {
+    "id": 80,
+    "name_arabic": "التواب",
+    "transliteration": "At-Tawwab",
+    "english_translation": "The Acceptor of Repentance",
+    "description": "At-Tawwab refers to Allah’s readiness to accept the repentance of His servants. He forgives sins and welcomes back those who turn to Him sincerely, no matter how many times they seek His forgiveness."
   }
 ]
