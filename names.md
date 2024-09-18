@@ -68,5 +68,75 @@
     "transliteration": "Al-Mutakabbir",
     "english_translation": "The Supreme",
     "description": "Al-Mutakabbir denotes Allah's greatness and majesty above all. He is exalted above any imperfection, and His supreme authority and grandeur are unmatched."
+  },
+  {
+    "id": 11,
+    "name_arabic": "الخالق",
+    "transliteration": "Al-Khaliq",
+    "english_translation": "The Creator",
+    "description": "Al-Khaliq refers to Allah as the one who creates everything from nothing. He is the originator of all existence, designing and determining the nature and purpose of His creations with wisdom."
+  },
+  {
+    "id": 12,
+    "name_arabic": "البارئ",
+    "transliteration": "Al-Bari'",
+    "english_translation": "The Evolver",
+    "description": "Al-Bari' emphasizes Allah’s ability to evolve and shape creation in perfect proportion. He is the one who brings things into being with precision and harmony, ensuring everything functions as intended."
+  },
+  {
+    "id": 13,
+    "name_arabic": "المصور",
+    "transliteration": "Al-Musawwir",
+    "english_translation": "The Fashioner",
+    "description": "Al-Musawwir highlights Allah’s attribute of giving shape and form to His creation. He fashions everything uniquely, determining the features, attributes, and qualities of all beings and things."
+  },
+  {
+    "id": 14,
+    "name_arabic": "الغفار",
+    "transliteration": "Al-Ghaffar",
+    "english_translation": "The Constant Forgiver",
+    "description": "Al-Ghaffar signifies Allah’s unlimited forgiveness. He continually forgives those who repent, no matter how many times they fall into sin, offering them mercy and a chance to correct themselves."
+  },
+  {
+    "id": 15,
+    "name_arabic": "القهار",
+    "transliteration": "Al-Qahhar",
+    "english_translation": "The Subduer",
+    "description": "Al-Qahhar reflects Allah’s power to overcome all things. He is dominant and prevailing, and nothing can resist His will. He subdues His creation to His command, balancing justice and mercy."
+  },
+  {
+    "id": 16,
+    "name_arabic": "الوهاب",
+    "transliteration": "Al-Wahhab",
+    "english_translation": "The Bestower",
+    "description": "Al-Wahhab describes Allah as the one who gives freely and abundantly without expectation or need of return. His blessings are continuous, and He grants gifts to whom He wills from His infinite bounty."
+  },
+  {
+    "id": 17,
+    "name_arabic": "الرزاق",
+    "transliteration": "Ar-Razzaq",
+    "english_translation": "The Provider",
+    "description": "Ar-Razzaq means Allah is the ultimate provider of sustenance and provision for all His creation. He ensures that every creature, regardless of status or need, receives what is required for their survival and well-being."
+  },
+  {
+    "id": 18,
+    "name_arabic": "الفتاح",
+    "transliteration": "Al-Fattah",
+    "english_translation": "The Opener",
+    "description": "Al-Fattah signifies Allah’s ability to open what is closed, whether it is doors of opportunity, hearts, or pathways to solutions. He provides clarity and guidance, removing obstacles and granting success."
+  },
+  {
+    "id": 19,
+    "name_arabic": "العليم",
+    "transliteration": "Al-‘Alim",
+    "english_translation": "The All-Knowing",
+    "description": "Al-‘Alim refers to Allah’s complete and all-encompassing knowledge. He knows all things—past, present, and future—down to the finest details. Nothing is hidden from His infinite understanding."
+  },
+  {
+    "id": 20,
+    "name_arabic": "القابض",
+    "transliteration": "Al-Qabid",
+    "english_translation": "The Withholder",
+    "description": "Al-Qabid reflects Allah’s power to withhold or restrict provision, sustenance, or opportunities as a form of wisdom and test. He controls all things, and whatever is held back is for a divine purpose."
   }
 ]
