@@ -138,5 +138,285 @@
     "transliteration": "Al-Qabid",
     "english_translation": "The Withholder",
     "description": "Al-Qabid reflects Allah’s power to withhold or restrict provision, sustenance, or opportunities as a form of wisdom and test. He controls all things, and whatever is held back is for a divine purpose."
+  },
+  {
+    "id": 21,
+    "name_arabic": "الباسط",
+    "transliteration": "Al-Basit",
+    "english_translation": "The Expander",
+    "description": "Al-Basit refers to Allah’s ability to extend or expand provision, blessings, or opportunities. He opens up doors of abundance and grace for whomever He wills, balancing His role as both the withholder and the expander."
+  },
+  {
+    "id": 22,
+    "name_arabic": "الخافض",
+    "transliteration": "Al-Khafid",
+    "english_translation": "The Abaser",
+    "description": "Al-Khafid means Allah has the power to lower or humble those who are arrogant or unjust. He brings down tyrants and those who oppose His guidance, reducing their power and status in this world and the next."
+  },
+  {
+    "id": 23,
+    "name_arabic": "الرافع",
+    "transliteration": "Ar-Rafi'",
+    "english_translation": "The Exalter",
+    "description": "Ar-Rafi' refers to Allah’s ability to elevate or exalt whomever He wills. He raises the ranks of His believers in honor and status, whether in this world or the hereafter, often based on their righteousness and sincerity."
+  },
+  {
+    "id": 24,
+    "name_arabic": "المعز",
+    "transliteration": "Al-Mu'izz",
+    "english_translation": "The Bestower of Honor",
+    "description": "Al-Mu'izz signifies that Allah grants dignity and honor to those He chooses. He provides respect and power, lifting them in status and authority, both in the worldly sense and in their relationship with Him."
+  },
+  {
+    "id": 25,
+    "name_arabic": "المذل",
+    "transliteration": "Al-Mudhill",
+    "english_translation": "The Humiliator",
+    "description": "Al-Mudhill means Allah can degrade and humiliate those who disobey Him or act in arrogance. He lowers their status and strips them of dignity, leaving them powerless and disgraced."
+  },
+  {
+    "id": 26,
+    "name_arabic": "السميع",
+    "transliteration": "As-Sami'",
+    "english_translation": "The All-Hearing",
+    "description": "As-Sami' refers to Allah’s ability to hear all sounds and voices, no matter how loud or soft. He hears the prayers and pleas of His creation, knowing every spoken and unspoken word."
+  },
+  {
+    "id": 27,
+    "name_arabic": "البصير",
+    "transliteration": "Al-Basir",
+    "english_translation": "The All-Seeing",
+    "description": "Al-Basir signifies Allah’s complete vision and awareness of everything. He sees all that occurs, both seen and unseen, and nothing escapes His observation, whether in the vastness of the universe or in the depths of a person's heart."
+  },
+  {
+    "id": 28,
+    "name_arabic": "الحكم",
+    "transliteration": "Al-Hakam",
+    "english_translation": "The Judge",
+    "description": "Al-Hakam refers to Allah’s role as the ultimate judge who passes judgment with absolute fairness and justice. His decisions are based on perfect wisdom, and He resolves all matters with complete impartiality."
+  },
+  {
+    "id": 29,
+    "name_arabic": "العدل",
+    "transliteration": "Al-'Adl",
+    "english_translation": "The Just",
+    "description": "Al-'Adl means Allah is perfectly just in all of His actions and decisions. He administers justice in all matters and ensures that everything is done according to divine fairness and balance."
+  },
+  {
+    "id": 30,
+    "name_arabic": "اللطيف",
+    "transliteration": "Al-Latif",
+    "english_translation": "The Subtle One",
+    "description": "Al-Latif reflects Allah’s attribute of being gentle, subtle, and compassionate in His care for creation. He works in ways that may be imperceptible to us, providing for our needs with kindness and subtlety."
+  },
+  {
+    "id": 31,
+    "name_arabic": "الخبير",
+    "transliteration": "Al-Khabir",
+    "english_translation": "The All-Aware",
+    "description": "Al-Khabir indicates that Allah is fully aware of everything, including the hidden realities. He knows the deepest secrets, the inner workings of all matters, and nothing is unknown to Him."
+  },
+  {
+    "id": 32,
+    "name_arabic": "الحليم",
+    "transliteration": "Al-Halim",
+    "english_translation": "The Forbearing",
+    "description": "Al-Halim refers to Allah’s attribute of patience and forbearance. He is slow to punish, giving people time to repent and correct their mistakes. His tolerance and patience are infinite, despite people’s disobedience."
+  },
+  {
+    "id": 33,
+    "name_arabic": "العظيم",
+    "transliteration": "Al-Azim",
+    "english_translation": "The Magnificent",
+    "description": "Al-Azim reflects Allah’s greatness and grandeur. His majesty is beyond all comprehension, and He is exalted above all things in His essence, attributes, and actions."
+  },
+  {
+    "id": 34,
+    "name_arabic": "الغفور",
+    "transliteration": "Al-Ghafur",
+    "english_translation": "The All-Forgiving",
+    "description": "Al-Ghafur emphasizes Allah’s vast and constant forgiveness. No matter how many sins a person commits, Allah’s forgiveness is greater, and He pardons those who sincerely seek His mercy."
+  },
+  {
+    "id": 35,
+    "name_arabic": "الشكور",
+    "transliteration": "Ash-Shakur",
+    "english_translation": "The Appreciative",
+    "description": "Ash-Shakur means that Allah is appreciative of even the smallest of good deeds. He rewards them greatly, multiplying their value, and showing gratitude for the efforts of His servants in ways only He can."
+  },
+  {
+    "id": 36,
+    "name_arabic": "العلي",
+    "transliteration": "Al-‘Aliyy",
+    "english_translation": "The Most High",
+    "description": "Al-‘Aliyy refers to Allah’s transcendence and highness above all creation. He is above all in rank, power, and status, and nothing can reach His supreme level of authority and majesty."
+  },
+  {
+    "id": 37,
+    "name_arabic": "الكبير",
+    "transliteration": "Al-Kabir",
+    "english_translation": "The Most Great",
+    "description": "Al-Kabir signifies Allah’s greatness in every sense. His being, attributes, and actions are far greater than anything in creation, and His supremacy is incomparable."
+  },
+  {
+    "id": 38,
+    "name_arabic": "الحفيظ",
+    "transliteration": "Al-Hafiz",
+    "english_translation": "The Preserver",
+    "description": "Al-Hafiz refers to Allah’s protection and preservation of all things. He guards the heavens, the earth, and everything in them, ensuring that nothing occurs outside of His divine will and care."
+  },
+  {
+    "id": 39,
+    "name_arabic": "المقيت",
+    "transliteration": "Al-Muqit",
+    "english_translation": "The Sustainer",
+    "description": "Al-Muqit means Allah sustains all of His creation by providing them with their physical, spiritual, and mental needs. He ensures that every creature is nourished and sustained."
+  },
+  {
+    "id": 40,
+    "name_arabic": "الحسيب",
+    "transliteration": "Al-Hasib",
+    "english_translation": "The Reckoner",
+    "description": "Al-Hasib indicates that Allah is the one who takes account of everything. He will hold all of His creation accountable for their deeds on the Day of Judgment, and He suffices as the one who reckons."
+  },
+  {
+    "id": 41,
+    "name_arabic": "الجليل",
+    "transliteration": "Al-Jalil",
+    "english_translation": "The Majestic",
+    "description": "Al-Jalil represents Allah’s majesty and greatness in both essence and attributes. He is magnificent and exalted in every way, beyond human comprehension, and deserving of all reverence and honor."
+  },
+  {
+    "id": 42,
+    "name_arabic": "الكريم",
+    "transliteration": "Al-Karim",
+    "english_translation": "The Generous",
+    "description": "Al-Karim signifies Allah’s boundless generosity. He gives freely and abundantly, without any expectation of return, and His generosity extends to both believers and non-believers, whether they ask for it or not."
+  },
+  {
+    "id": 43,
+    "name_arabic": "الرقيب",
+    "transliteration": "Ar-Raqib",
+    "english_translation": "The Watchful",
+    "description": "Ar-Raqib refers to Allah’s watchfulness over all things. He is fully aware of everything that occurs, both outwardly and inwardly, and nothing escapes His attention."
+  },
+  {
+    "id": 44,
+    "name_arabic": "المجيب",
+    "transliteration": "Al-Mujib",
+    "english_translation": "The Responsive",
+    "description": "Al-Mujib signifies Allah’s readiness to answer the calls and prayers of His servants. He responds to supplications, grants relief, and fulfills needs, as long as they come with sincerity and trust."
+  },
+  {
+    "id": 45,
+    "name_arabic": "الواسع",
+    "transliteration": "Al-Wasi'",
+    "english_translation": "The All-Encompassing",
+    "description": "Al-Wasi' refers to Allah’s vastness in knowledge, mercy, and dominion. His knowledge and mercy encompass everything in existence, and His bounties are limitless, stretching across all dimensions."
+  },
+  {
+    "id": 46,
+    "name_arabic": "الحكيم",
+    "transliteration": "Al-Hakim",
+    "english_translation": "The Wise",
+    "description": "Al-Hakim denotes Allah’s ultimate wisdom. Every action, command, and decree from Him is based on perfect wisdom and knowledge, even if humans cannot comprehend the full scope of His decisions."
+  },
+  {
+    "id": 47,
+    "name_arabic": "الودود",
+    "transliteration": "Al-Wadud",
+    "english_translation": "The Loving",
+    "description": "Al-Wadud reflects Allah’s deep love and affection for His creation. He is loving and compassionate, showing care and mercy, especially to those who follow His guidance."
+  },
+  {
+    "id": 48,
+    "name_arabic": "المجيد",
+    "transliteration": "Al-Majid",
+    "english_translation": "The Glorious",
+    "description": "Al-Majid signifies Allah’s glory and honor. His essence is full of grandeur and nobility, and He is perfect in every way, with limitless praise and honor due to Him."
+  },
+  {
+    "id": 49,
+    "name_arabic": "الباعث",
+    "transliteration": "Al-Ba'ith",
+    "english_translation": "The Resurrector",
+    "description": "Al-Ba'ith means Allah will resurrect the dead on the Day of Judgment. He brings the dead back to life and will gather them for the final reckoning, giving life after death as only He can."
+  },
+  {
+    "id": 50,
+    "name_arabic": "الشهيد",
+    "transliteration": "Ash-Shahid",
+    "english_translation": "The Witness",
+    "description": "Ash-Shahid refers to Allah’s ever-present witness over all things. He is fully aware of every action, word, and deed, and nothing happens without His observation and testimony."
+  },
+  {
+    "id": 51,
+    "name_arabic": "الحق",
+    "transliteration": "Al-Haqq",
+    "english_translation": "The Truth",
+    "description": "Al-Haqq means Allah is the ultimate truth and reality. Everything He has revealed, decreed, and promised is true and will come to pass. His essence, words, and actions are the absolute truth."
+  },
+  {
+    "id": 52,
+    "name_arabic": "الوكيل",
+    "transliteration": "Al-Wakil",
+    "english_translation": "The Trustee",
+    "description": "Al-Wakil signifies Allah as the one whom people can rely on completely. He manages all affairs and takes care of the needs of His creation, providing protection and support in all matters."
+  },
+  {
+    "id": 53,
+    "name_arabic": "القوي",
+    "transliteration": "Al-Qawiyy",
+    "english_translation": "The All-Strong",
+    "description": "Al-Qawiyy refers to Allah’s supreme power and strength. He is stronger than anything in creation, and His power is absolute, able to overpower any force or challenge."
+  },
+  {
+    "id": 54,
+    "name_arabic": "المتين",
+    "transliteration": "Al-Matin",
+    "english_translation": "The Firm",
+    "description": "Al-Matin reflects Allah’s firmness and stability. His power is solid, unshakable, and enduring, and nothing can weaken or challenge His might."
+  },
+  {
+    "id": 55,
+    "name_arabic": "الولي",
+    "transliteration": "Al-Waliyy",
+    "english_translation": "The Protecting Friend",
+    "description": "Al-Waliyy means Allah is the guardian and supporter of His creation. He guides, protects, and nurtures His servants, providing them with care and closeness in all matters."
+  },
+  {
+    "id": 56,
+    "name_arabic": "الحميد",
+    "transliteration": "Al-Hamid",
+    "english_translation": "The Praiseworthy",
+    "description": "Al-Hamid means that all praise is due to Allah. He is deserving of every form of gratitude and recognition for His perfection, kindness, and all the blessings He bestows."
+  },
+  {
+    "id": 57,
+    "name_arabic": "المحصي",
+    "transliteration": "Al-Muhsi",
+    "english_translation": "The Accounter",
+    "description": "Al-Muhsi refers to Allah’s perfect knowledge of all things. He knows every detail of creation and every deed performed, and He keeps a perfect account of everything."
+  },
+  {
+    "id": 58,
+    "name_arabic": "المبدئ",
+    "transliteration": "Al-Mubdi'",
+    "english_translation": "The Originator",
+    "description": "Al-Mubdi' means that Allah is the one who originates creation from nothing. He is the first cause of everything, initiating existence through His will and power."
+  },
+  {
+    "id": 59,
+    "name_arabic": "المعيد",
+    "transliteration": "Al-Mu'id",
+    "english_translation": "The Restorer",
+    "description": "Al-Mu'id reflects Allah’s ability to bring back to life what He has caused to die. He restores creation after its end and will return everything to life on the Day of Resurrection."
+  },
+  {
+    "id": 60,
+    "name_arabic": "المحيي",
+    "transliteration": "Al-Muhyi",
+    "english_translation": "The Giver of Life",
+    "description": "Al-Muhyi means that Allah gives life to all beings. He is the one who creates life and revives the dead, and His power over life and death is absolute."
   }
 ]
